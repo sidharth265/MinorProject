@@ -30,7 +30,7 @@ footer = """
     }
     </style>
     <div class="footer">
-        <p>Diabetes Prediction | Data Source: National Institute of Diabetes and Digestive and Kidney Diseases | © 2024 UZNetDev <a href="https://github.com/UznetDev/Diabetes-Prediction.git" target="_blank">GitHub</a></p>
+        <p>Diabetes Prediction | Data Source: National Institute of Diabetes and Digestive and Kidney Diseases |</p>
     </div>
     """
 
