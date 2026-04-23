@@ -18,7 +18,7 @@ def app():
         'Enter value for `Glucose`',
         min_value=0,
         max_value=250,
-        value=100
+        value=90
     )
 
     # Insulin
@@ -34,7 +34,7 @@ def app():
         'Enter value for `BMI`',
         min_value=0.0,
         max_value=100.0,
-        value=25.0,
+        value=22.0,
         format="%.1f"
     )
 
